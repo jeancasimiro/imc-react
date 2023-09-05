@@ -1,0 +1,60 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.muito-abaixo-do-peso {
+  background-color: rgb(172, 53, 53);
+  font-weight: bold;
+}
+
+.abaixo-do-peso {
+  background-color: #428d5f;
+  font-weight: bold;
+}
+
+.peso-normal {
+  background-color: #202e41;
+  font-weight: bold;
+}
+
+.acima-do-peso {
+  background-color: rgb(236, 236, 36);
+  font-weight: bold;
+}
+
+.obesidade-i {
+  background-color: rgb(255, 148, 25);
+  font-weight: bold;
+}
+
+.obesidade-ii {
+  background-color: rgb(214, 48, 18);
+  font-weight: bold;
+}
+
+.obesidade-iii {
+  background-color: red;
+  font-weight: bold;
+}
+
+.result {
+  font-weight: 600;
+  padding: 5px;
+}
+
+.inline {
+  display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
